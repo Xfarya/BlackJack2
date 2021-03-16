@@ -121,12 +121,12 @@
 }
 
 #playbuttons {
-  padding-left: 100px;
+  /* padding-left: 100px; */
   padding-bottom: 15px;
 }
 
 #playbuttons2 {
-  padding-left: 100px;
+  /* padding-left: 100px; */
   padding-bottom: 15px;
   display: inline-block;
 }
